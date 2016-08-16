@@ -1,34 +1,22 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
     <head>
-
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-
-
-        <title>Cyrela</title>
-<!--        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />-->
+        <title>Cerveja Presidente</title>
         <!-- Bootstrap Core CSS -->
         <link href="<?= base_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet">
-
         <!-- Custom CSS -->
         <link href="<?= base_url('assets/css/sb-admin.css') ?>" rel="stylesheet">
-
         <!-- Morris Charts CSS -->
 <!--        <link href="<?= base_url('assets/css/plugins/morris.css') ?>" rel="stylesheet">-->
-
         <!-- Custom Fonts -->
         <link href="<?= base_url('assets/font-awesome/css/font-awesome.min.css') ?>" rel="stylesheet" type="text/css">
-
-
     </head>
-
     <body>
-
         <div id="wrapper">
             <!-- Navigation -->
             <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -44,7 +32,6 @@
                 </div>
                 <!-- Top Menu Items -->
                 <ul class="nav navbar-right top-nav">
-
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-bell"></i> <b class="caret"></b></a>
                         <ul class="dropdown-menu alert-dropdown">
@@ -106,7 +93,6 @@
                         <li>
                             <a href="blank-page.html"><i class="fa fa-fw fa-file"></i> Blank Page</a>
                         </li>
-
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->

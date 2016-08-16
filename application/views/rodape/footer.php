@@ -1,4 +1,9 @@
 </div>
+<!-- /.container-fluid -->
+
+</div>
+<!-- /#page-wrapper -->
+</div>
 <!-- /#wrapper -->
 <!-- jQuery -->
 <script src="<?= base_url('assets/js/jquery.js') ?>"></script>
